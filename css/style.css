@@ -502,6 +502,7 @@ h6 {
 
 #about .about-container p {
   line-height: 26px;
+  
 }
 
 #about .about-container p:last-child {
@@ -813,7 +814,7 @@ h6 {
 }
 
 #portfolio .portfolio-item .portfolio-wrap .portfolio-info h4 a:hover {
-  color: #007bff;
+  color: #0026ff;
 }
 
 #portfolio .portfolio-item .portfolio-wrap .portfolio-info p {
@@ -855,7 +856,7 @@ h6 {
 }
 
 #portfolio .portfolio-item .portfolio-wrap:hover {
-  background: #003166;
+  background: #000000;
 }
 
 #portfolio .portfolio-item .portfolio-wrap:hover .portfolio-info {
@@ -978,7 +979,7 @@ h6 {
 #team .member h4 {
   font-weight: 700;
   margin-bottom: 2px;
-  font-size: 18px;
+  font-size: 14px;
   color: #fff;
 }
 
